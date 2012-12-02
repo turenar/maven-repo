@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.twitter</groupId>
+  <artifactId>twitter-text-regex</artifactId>
+  <version>1.4.10</version>
+  <versioning>
+    <versions>
+      <version>1.4.10</version>
+    </versions>
+    <lastUpdated>20120324074757</lastUpdated>
+  </versioning>
+</metadata>
