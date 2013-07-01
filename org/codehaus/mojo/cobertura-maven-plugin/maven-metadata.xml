@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.codehaus.mojo</groupId>
+  <artifactId>cobertura-maven-plugin</artifactId>
+  <versioning>
+    <versions>
+      <version>2.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130701055007</lastUpdated>
+  </versioning>
+</metadata>
